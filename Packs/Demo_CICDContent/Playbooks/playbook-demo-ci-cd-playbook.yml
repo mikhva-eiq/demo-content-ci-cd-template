@@ -1,0 +1,57 @@
+contentitemexportablefields:
+  contentitemfields:
+    definitionid: ""
+    fromServerVersion: ""
+    itemVersion: ""
+    packID: 45e4ce7a-beff-48b1-87c9-eaf42bbb3d7d
+    packName: new-content
+    prevname: ""
+    propagationLabels:
+    - all
+    toServerVersion: ""
+id: b6ca87fd-2a21-44fd-8103-4df1c255f575
+inputs: []
+name: demo-ci-cd-playbook
+outputs: []
+quiet: true
+starttaskid: "0"
+tasks:
+  "0":
+    continueonerrortype: ""
+    id: "0"
+    ignoreworker: false
+    isautoswitchedtoquietmode: false
+    isoversize: false
+    note: false
+    quietmode: 0
+    separatecontext: false
+    skipunavailable: false
+    task:
+      brand: ""
+      id: a4422f9b-6b10-4abd-88b0-551ad559d047
+      iscommand: false
+      name: ""
+      version: -1
+    taskid: a4422f9b-6b10-4abd-88b0-551ad559d047
+    timertriggers: []
+    type: start
+    view: |-
+      {
+        "position": {
+          "x": 50,
+          "y": 50
+        }
+      }
+version: -1
+view: |-
+  {
+    "linkLabelsPosition": {},
+    "paper": {
+      "dimensions": {
+        "height": 65,
+        "width": 380,
+        "x": 50,
+        "y": 50
+      }
+    }
+  }

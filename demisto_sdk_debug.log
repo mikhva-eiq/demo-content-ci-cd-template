@@ -1,0 +1,194 @@
+[2023-12-04T15:28:51] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:28:51] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:28:51] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:28:51] - [MainThread] - [INFO] - logger.py:375 - Log file location: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/demisto_sdk_debug.log
+[2023-12-04T15:28:51] - [MainThread] - [DEBUG] - connectionpool.py:1001 - Starting new HTTPS connection (1): pypi.org:443
+[2023-12-04T15:28:51] - [MainThread] - [DEBUG] - connectionpool.py:456 - https://pypi.org:443 "GET /pypi/demisto-sdk/json HTTP/1.1" 200 43006
+[2023-12-04T15:28:51] - [MainThread] - [INFO] - __main__.py:228 - You are using demisto-sdk 1.20.8.
+[2023-12-04T15:28:51] - [MainThread] - [INFO] - __main__.py:230 - however version 1.24.0 is available.
+To update, run pip3 install --upgrade demisto-sdk
+[2023-12-04T15:28:51] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:28:51] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:28:51] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:28:51] - [MainThread] - [DEBUG] - tools.py:3819 - neither marketplace nor is_xsiam provided, using default marketplace=XSOAR
+[2023-12-04T15:29:07] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:29:07] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:29:07] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:29:07] - [MainThread] - [INFO] - logger.py:375 - Log file location: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/demisto_sdk_debug.log
+[2023-12-04T15:29:07] - [MainThread] - [DEBUG] - connectionpool.py:1001 - Starting new HTTPS connection (1): pypi.org:443
+[2023-12-04T15:29:07] - [MainThread] - [DEBUG] - connectionpool.py:456 - https://pypi.org:443 "GET /pypi/demisto-sdk/json HTTP/1.1" 200 43006
+[2023-12-04T15:29:07] - [MainThread] - [INFO] - __main__.py:228 - You are using demisto-sdk 1.20.8.
+[2023-12-04T15:29:07] - [MainThread] - [INFO] - __main__.py:230 - however version 1.24.0 is available.
+To update, run pip3 install --upgrade demisto-sdk
+[2023-12-04T15:29:07] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:29:07] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:29:07] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:29:07] - [MainThread] - [DEBUG] - tools.py:3819 - neither marketplace nor is_xsiam provided, using default marketplace=XSOAR
+[2023-12-04T15:29:07] - [MainThread] - [INFO] - initiator.py:617 - Creating pack base files
+[2023-12-04T15:29:07] - [MainThread] - [INFO] - initiator.py:506 - Successfully created the pack cicdDemo in: Packs/cicdDemo
+[2023-12-04T15:29:12] - [MainThread] - [INFO] - initiator.py:525 - Created pack metadata at path : Packs/cicdDemo/pack_metadata.json
+[2023-12-04T15:29:37] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:29:37] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:29:37] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:29:37] - [MainThread] - [INFO] - logger.py:375 - Log file location: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/demisto_sdk_debug.log
+[2023-12-04T15:29:37] - [MainThread] - [DEBUG] - connectionpool.py:1001 - Starting new HTTPS connection (1): pypi.org:443
+[2023-12-04T15:29:37] - [MainThread] - [DEBUG] - connectionpool.py:456 - https://pypi.org:443 "GET /pypi/demisto-sdk/json HTTP/1.1" 200 43006
+[2023-12-04T15:29:37] - [MainThread] - [INFO] - __main__.py:228 - You are using demisto-sdk 1.20.8.
+[2023-12-04T15:29:37] - [MainThread] - [INFO] - __main__.py:230 - however version 1.24.0 is available.
+To update, run pip3 install --upgrade demisto-sdk
+[2023-12-04T15:29:37] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:29:37] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:29:37] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:29:37] - [MainThread] - [DEBUG] - cmd.py:978 - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=/Users/vmikhailov/Desktop/demo-content-ci-cd-template, stdin=None, shell=False, universal_newlines=False)
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: c502cbea-2e1b-4534-80ed-ed95971ef8bd with the following: searchauto in /automation-searchauto.yml
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: b6ca87fd-2a21-44fd-8103-4df1c255f575 with the following: demo-ci-cd-playbook in /incidenttype-cicd-demo.json
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: 93061773-3b11-4523-8900-3e8a1d53621a with the following: test in /incidenttype-test.json
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: 93061773-3b11-4523-8900-3e8a1d53621a with the following: test in /layoutscontainer-test.json
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: b6ca87fd-2a21-44fd-8103-4df1c255f575 with the following: demo-ci-cd-playbook in /playbook-demo-ci-cd-playbook.yml
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:833 - 
+Demisto instance: Enumerating objects: 8, done.
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:836 - Demisto instance: Receiving objects: 100% (8/8), done.
+
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1211 - - Added IncidentType "cicd-demo"
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:116 - Starting migration of: /private/var/folders/rw/3yt30mkd0mg0kvkybp987l9j3hgv8c/T/tmpjpu_y4so/script-CommonServerUserPowerShell.yml to dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/CommonServerUserPowerShell
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:217 - Extracting code to: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/CommonServerUserPowerShell/CommonServerUserPowerShell.ps1 ...
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:130 - Creating yml file: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/CommonServerUserPowerShell/CommonServerUserPowerShell.yml ...
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:164 - Setting fromversion for PowerShell to: 5.5.0
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:180 - Finished splitting the yml file - you can find the split results here: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/CommonServerUserPowerShell
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1211 - - Added Script "CommonServerUserPowerShell"
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1211 - - Added IncidentType "test"
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1211 - - Added Layout "test"
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:116 - Starting migration of: /private/var/folders/rw/3yt30mkd0mg0kvkybp987l9j3hgv8c/T/tmpjpu_y4so/script-searchauto.yml to dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/searchauto
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:217 - Extracting code to: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/searchauto/searchauto.py ...
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:130 - Creating yml file: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/searchauto/searchauto.yml ...
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:180 - Finished splitting the yml file - you can find the split results here: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/searchauto
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1211 - - Added Script "searchauto"
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:116 - Starting migration of: /private/var/folders/rw/3yt30mkd0mg0kvkybp987l9j3hgv8c/T/tmpjpu_y4so/script-CommonServerUserPython.yml to dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/CommonServerUserPython
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:217 - Extracting code to: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/CommonServerUserPython/CommonServerUserPython.py ...
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:130 - Creating yml file: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/CommonServerUserPython/CommonServerUserPython.yml ...
+[2023-12-04T15:29:38] - [MainThread] - [DEBUG] - ymlsplitter.py:180 - Finished splitting the yml file - you can find the split results here: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/Packs/cicdDemo/Scripts/CommonServerUserPython
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1211 - - Added Script "CommonServerUserPython"
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1211 - - Added Playbook "demo-ci-cd-playbook"
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1364 - 
+7 files added.
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1372 - 
+Failed to download the following files:
+
+[2023-12-04T15:29:38] - [MainThread] - [INFO] - downloader.py:1373 - FILE NAME         REASON
+----------------  ------------------------------------------------------------
+CommonUserServer  Downloading a script written in JavaScript is not supported.
+[2023-12-04T15:31:51] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:31:51] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:31:51] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:31:51] - [MainThread] - [INFO] - logger.py:375 - Log file location: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/demisto_sdk_debug.log
+[2023-12-04T15:31:51] - [MainThread] - [DEBUG] - connectionpool.py:1001 - Starting new HTTPS connection (1): pypi.org:443
+[2023-12-04T15:31:51] - [MainThread] - [DEBUG] - connectionpool.py:456 - https://pypi.org:443 "GET /pypi/demisto-sdk/json HTTP/1.1" 200 43006
+[2023-12-04T15:31:51] - [MainThread] - [INFO] - __main__.py:228 - You are using demisto-sdk 1.20.8.
+[2023-12-04T15:31:51] - [MainThread] - [INFO] - __main__.py:230 - however version 1.24.0 is available.
+To update, run pip3 install --upgrade demisto-sdk
+[2023-12-04T15:31:51] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:31:51] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:31:51] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:31:51] - [MainThread] - [DEBUG] - cmd.py:978 - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=/Users/vmikhailov/Desktop/demo-content-ci-cd-template, stdin=None, shell=False, universal_newlines=False)
+[2023-12-04T15:31:51] - [MainThread] - [WARNING] - connectionpool.py:810 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1108)'))': /content/bundle
+[2023-12-04T15:31:51] - [MainThread] - [WARNING] - connectionpool.py:810 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1108)'))': /content/bundle
+[2023-12-04T15:31:51] - [MainThread] - [WARNING] - connectionpool.py:810 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1108)'))': /content/bundle
+[2023-12-04T15:31:51] - [MainThread] - [INFO] - downloader.py:278 - 
+Verify that the environment variable DEMISTO_BASE_URL is configured properly.
+
+[2023-12-04T15:31:51] - [MainThread] - [INFO] - downloader.py:281 - Exception raised when fetching custom content:
+HTTPSConnectionPool(host='172.16.125.161', port=443): Max retries exceeded with url: /content/bundle (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1108)')))
+[2023-12-04T15:31:58] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:31:58] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:31:58] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:31:58] - [MainThread] - [INFO] - logger.py:375 - Log file location: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/demisto_sdk_debug.log
+[2023-12-04T15:31:58] - [MainThread] - [DEBUG] - connectionpool.py:1001 - Starting new HTTPS connection (1): pypi.org:443
+[2023-12-04T15:31:58] - [MainThread] - [DEBUG] - connectionpool.py:456 - https://pypi.org:443 "GET /pypi/demisto-sdk/json HTTP/1.1" 200 43006
+[2023-12-04T15:31:58] - [MainThread] - [INFO] - __main__.py:228 - You are using demisto-sdk 1.20.8.
+[2023-12-04T15:31:58] - [MainThread] - [INFO] - __main__.py:230 - however version 1.24.0 is available.
+To update, run pip3 install --upgrade demisto-sdk
+[2023-12-04T15:31:58] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:31:58] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:31:58] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:31:58] - [MainThread] - [DEBUG] - cmd.py:978 - Popen(['git', 'remote', 'get-url', '--all', 'origin'], cwd=/Users/vmikhailov/Desktop/demo-content-ci-cd-template, stdin=None, shell=False, universal_newlines=False)
+[2023-12-04T15:31:59] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: c502cbea-2e1b-4534-80ed-ed95971ef8bd with the following: searchauto in /automation-searchauto.yml
+[2023-12-04T15:31:59] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: b6ca87fd-2a21-44fd-8103-4df1c255f575 with the following: demo-ci-cd-playbook in /incidenttype-cicd-demo.json
+[2023-12-04T15:31:59] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: 93061773-3b11-4523-8900-3e8a1d53621a with the following: test in /incidenttype-test.json
+[2023-12-04T15:31:59] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: 93061773-3b11-4523-8900-3e8a1d53621a with the following: test in /layoutscontainer-test.json
+[2023-12-04T15:31:59] - [MainThread] - [DEBUG] - downloader.py:335 - Replacing UUID: b6ca87fd-2a21-44fd-8103-4df1c255f575 with the following: demo-ci-cd-playbook in /playbook-demo-ci-cd-playbook.yml
+[2023-12-04T15:31:59] - [MainThread] - [INFO] - downloader.py:583 - 
+The following files are available to be downloaded from Demisto instance:
+
+[2023-12-04T15:31:59] - [MainThread] - [INFO] - downloader.py:586 - FILE NAME                   FILE TYPE
+--------------------------  ----------------
+CommonServerUserPython      script
+test                        incidenttype
+CommonUserServer            script
+searchauto                  script
+cicd-demo                   incidenttype
+demo-ci-cd-playbook         playbook
+CommonServerUserPowerShell  script
+test                        layoutscontainer
+[2023-12-04T15:35:14] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:35:14] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:35:14] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:35:14] - [MainThread] - [INFO] - logger.py:375 - Log file location: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/demisto_sdk_debug.log
+[2023-12-04T15:35:14] - [MainThread] - [DEBUG] - connectionpool.py:1001 - Starting new HTTPS connection (1): pypi.org:443
+[2023-12-04T15:35:14] - [MainThread] - [DEBUG] - connectionpool.py:456 - https://pypi.org:443 "GET /pypi/demisto-sdk/json HTTP/1.1" 200 43006
+[2023-12-04T15:35:14] - [MainThread] - [INFO] - __main__.py:228 - You are using demisto-sdk 1.20.8.
+[2023-12-04T15:35:14] - [MainThread] - [INFO] - __main__.py:230 - however version 1.24.0 is available.
+To update, run pip3 install --upgrade demisto-sdk
+[2023-12-04T15:35:14] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:35:14] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:35:14] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:35:14] - [MainThread] - [DEBUG] - tools.py:3819 - neither marketplace nor is_xsiam provided, using default marketplace=XSOAR
+[2023-12-04T15:35:14] - [MainThread] - [INFO] - initiator.py:617 - Creating pack base files
+[2023-12-04T15:35:14] - [MainThread] - [INFO] - initiator.py:506 - Successfully created the pack cicdDemo2 in: Packs/cicdDemo2
+[2023-12-04T15:37:14] - [MainThread] - [INFO] - initiator.py:525 - Created pack metadata at path : Packs/cicdDemo2/pack_metadata.json
+[2023-12-04T15:37:42] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:37:42] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:37:42] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:37:42] - [MainThread] - [INFO] - logger.py:375 - Log file location: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/demisto_sdk_debug.log
+[2023-12-04T15:37:42] - [MainThread] - [DEBUG] - connectionpool.py:1001 - Starting new HTTPS connection (1): pypi.org:443
+[2023-12-04T15:37:42] - [MainThread] - [DEBUG] - connectionpool.py:456 - https://pypi.org:443 "GET /pypi/demisto-sdk/json HTTP/1.1" 200 43006
+[2023-12-04T15:37:42] - [MainThread] - [INFO] - __main__.py:228 - You are using demisto-sdk 1.20.8.
+[2023-12-04T15:37:42] - [MainThread] - [INFO] - __main__.py:230 - however version 1.24.0 is available.
+To update, run pip3 install --upgrade demisto-sdk
+[2023-12-04T15:37:42] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:37:42] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:37:42] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:37:42] - [MainThread] - [DEBUG] - tools.py:3819 - neither marketplace nor is_xsiam provided, using default marketplace=XSOAR
+[2023-12-04T15:37:42] - [MainThread] - [INFO] - initiator.py:617 - Creating pack base files
+[2023-12-04T15:37:42] - [MainThread] - [INFO] - initiator.py:506 - Successfully created the pack Demo_CommonScripts in: Packs/Demo_CommonScripts
+[2023-12-04T15:41:09] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:41:09] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:41:09] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:41:09] - [MainThread] - [INFO] - logger.py:375 - Log file location: /Users/vmikhailov/Desktop/demo-content-ci-cd-template/demisto_sdk_debug.log
+[2023-12-04T15:41:09] - [MainThread] - [DEBUG] - connectionpool.py:1001 - Starting new HTTPS connection (1): pypi.org:443
+[2023-12-04T15:41:09] - [MainThread] - [DEBUG] - connectionpool.py:456 - https://pypi.org:443 "GET /pypi/demisto-sdk/json HTTP/1.1" 200 43006
+[2023-12-04T15:41:09] - [MainThread] - [INFO] - __main__.py:228 - You are using demisto-sdk 1.20.8.
+[2023-12-04T15:41:09] - [MainThread] - [INFO] - __main__.py:230 - however version 1.24.0 is available.
+To update, run pip3 install --upgrade demisto-sdk
+[2023-12-04T15:41:09] - [MainThread] - [DEBUG] - logger.py:367 - Python version: 3.8.2 (default, Nov  4 2020, 21:23:28) 
+[Clang 12.0.0 (clang-1200.0.32.28)]
+[2023-12-04T15:41:09] - [MainThread] - [DEBUG] - logger.py:368 - Working dir: /Users/vmikhailov/Desktop/demo-content-ci-cd-template
+[2023-12-04T15:41:09] - [MainThread] - [DEBUG] - logger.py:371 - Platform: Darwin
+[2023-12-04T15:41:09] - [MainThread] - [DEBUG] - tools.py:3819 - neither marketplace nor is_xsiam provided, using default marketplace=XSOAR
+[2023-12-04T15:41:09] - [MainThread] - [INFO] - initiator.py:617 - Creating pack base files
+[2023-12-04T15:41:09] - [MainThread] - [INFO] - initiator.py:506 - Successfully created the pack Demo_CICDContent in: Packs/Demo_CICDContent
+[2023-12-04T15:41:12] - [MainThread] - [INFO] - initiator.py:525 - Created pack metadata at path : Packs/Demo_CICDContent/pack_metadata.json
